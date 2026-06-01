@@ -1,5 +1,6 @@
 import math
 import csv
+import os
 
 m_t = float(input("What is the total mass of rocket(kg)? "))
 m_d = float(input("What is the dry mass of rocket(kg)? "))
